@@ -1,0 +1,253 @@
+*{
+    color: black;
+    background-color: bisque;
+}
+
+body {
+    /* background-color:beige; */
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 40px;
+    padding: 20px;
+    width: 300px;
+    height: px;
+    margin: 20px;
+    box-shadow: cap;
+    overflow: hidden;
+
+}
+
+.box img {
+    max-width: 100%;
+    border-radius: 40px;
+    overflow: hidden;
+}
+
+.box ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.box ul li {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 5px;
+    font-weight: 200;
+    font-size: 20px;
+    
+    
+
+
+}
+
+.box ul li:hover {
+    background-color: azure;
+    color: aqua;
+}
+.box:hover{
+    /* filter: grayscale(0); */
+    transform: scale(1.1);
+    transition-duration: 1s;
+    
+}
+
+.box p {
+    margin-top: 20px;
+    line-height: 1.6;
+    display: flex;
+    text-align: justify;
+
+}
+
+.box>h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+.list2 {
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 100px;
+    width: 9vw;
+    margin-left: 82px;
+    /* color: rgb(152, 152, 223); */
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    width: 150px;
+    text-align: center;
+}
+
+a:hover {
+    color: aqua;
+    background-color: azure;
+    transition-duration: 0.5ms;
+
+}
+
+.like ul2 {
+    list-style: none;
+    padding: 0;
+    /* display: flex; */
+
+
+}
+
+.like ul2 li2 {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 5px;
+    font-weight: 200;
+    font-size: 20px;
+
+
+
+}
+
+.like ul2 li2:hover {
+    color: aqua;
+    background-color: azure;
+    transition: 0.5s;
+}
+
+.like ul2 li3 {
+
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 5px;
+    font-weight: 200;
+    font-size: 20px;
+    margin-left: 150px;
+
+}
+
+.like ul2 li3:hover {
+    color: aqua;
+    background-color: azure;
+    transition: 0.5s;
+
+}
+
+.rock {
+    text-align: center;
+    position: relative;
+    bottom: 800px;
+    left: -250px;
+    font-size: xx-large;
+    font-weight: bolder;
+    overflow: hidden;
+
+}
+.rock:hover{
+    /* filter: grayscale(0); */
+    transform: scale(1.1);
+    transition-duration: 1s;
+
+}
+.box3 {
+    border: 2px solid black;
+    border-radius: 40px;
+    padding: 20px;
+    width: 300px;
+    height: 500px;
+    margin: 20px;
+    box-shadow: cap;
+    position: relative;
+    bottom: 800px;
+    left: 400px;
+}
+
+.rock p {
+    border: 2px solid black;
+    border-radius: 18px;
+    height: fit-content;
+    text-align: center;
+
+    position: relative;
+    bottom: 30px;
+
+}
+.rock ul li{
+    font: size 14px;
+    text-align: justify;
+    
+}
+.rock p:hover{
+    color: aqua;
+    transition-duration: 0.5s;
+}
+.rock ul li:hover{
+    color: aqua;
+    transition-duration: 0.5s;
+}
+.quote{
+    display: inline-block;
+    position: relative;
+    bottom: 1200px;
+    left: 800px;
+}
+.quote img{
+    height: 400px;
+    width: 400px;
+    border: 2px solid rgb(226, 105, 105);
+    border-radius: 60px;
+}
+.quote img:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+
+}
+.quote h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.quote h2{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.last ul3{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.new{
+    position: relative;
+    bottom: 679.99px;
+    
+
+}
+.neww{position: relative;
+    bottom: 1530px;
+    left: 400px;
+
+
+}
+.neww img{
+    height: 200px;
+    width: 290px;
+    position: relative;
+    left: 10px;;
+}
+.newww{
+    position: relative;
+    bottom: 2380px;
+    left: 800px;
+
+}
+.newwww{
+    position: relative;
+    bottom: 3230px;
+    left: 1200px;
+
+}
+
